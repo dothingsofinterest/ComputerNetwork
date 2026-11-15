@@ -1,0 +1,291 @@
+
+Section 1: Course Introduction | 第 1 节：课程介绍
+	• Course Introduction and Overview | 课程简介与概述
+	• Beginner-Friendly Labs | 适合初学者的实验
+	• Course Lecture PDFs | 课程讲义 PDF 文件
+	• Instructor Introduction | 讲师介绍
+	• Udemy Q&A and Video Replayer Playback Speed | Udemy 问答功能与视频播放器播放速度设置
+	• Udemy Mobile App for iOS & Android - Download & Take Course Videos On the Go! | 适用于 iOS 和 Android 的 Udemy 移动应用——下载课程视频，随时随地学习！
+	• Student Exercise: Introduce Yourself | 学生练习：自我介绍
+
+Section 2: Overview and Benefits of Computer Networks | 第 2 节：计算机网络概述及优势
+	• What Is a Computer Network? | 什么是计算机网络？
+	• Some Basic Computer Networking Rules | 计算机网络基本规则
+	• Types of Networks (by Size) | 网络类型（按规模划分）
+	• Peer-to-Peer vs. Client-Server Architecture | 对等网络架构与客户端-服务器架构
+	• Why Build a Computer Network? | 为什么要构建计算机网络？
+	✓ Student Exercise: Benefits of Computer Networks | 学生练习：计算机网络的优势
+
+Section 3: Course Primer: How Computer Networks Work | 第 3 节：课程简介：计算机网络的工作原理
+	• Section Introduction | 章节介绍
+	• Introduction to Computer Networking Protocols 计算机网络协议简介
+	• Introduction to the OSI Model OSI 模型简介
+	• Introduction to the TCP/IP Model | TCP/IP 模型简介
+	• Introduction to MAC Addresses | MAC 地址简介
+	• Introduction to IP Addresses | IP 地址简介
+	• IP versus MAC Addresses | IP 地址与 MAC 地址的比较
+	• Duplex Communication | 双工通信
+	• Network Transmission Types | 网络传输类型
+	• Introduction to Ethernet | 以太网简介
+	• Lab #1: Installing Cisco Packet Tracer | 实验 1：安装 Cisco Packet Tracer
+	• Cisco Packet Tracer on Mac OS | 在 Mac OS 上使用 Cisco Packet Tracer
+	• Lab # 2: Connecting two PCs Together | 实验 2：连接两台 PC
+	✓ How Computers Work Quiz | 计算机工作原理测验
+
+Section 4: Network Topologies | 第 4 节：网络拓扑
+	• Section Introduction | 章节介绍
+	• Physical vs. Logical Topologies | 物理拓扑与逻辑拓扑
+	• Wired Network Topologies | 有线网络拓扑
+	• Wireless Network Topologies | 无线网络拓扑
+	• Lab # 3: Create Physical Wired Topologies | 实验三：创建物理有线拓扑
+	✓ Network Topologies Quiz | 网络拓扑测验
+
+Section 5: Networking Devices | 第 5 节：联网设备
+	• Section Introduction | 章节介绍
+	• Network Interface Cards (NICs) | 网络接口卡（网卡）
+	• Hubs | 集线器
+	• Switches | 交换机
+	• Wireless Access Points | 无线接入点（无线 AP）
+	• Wireless Range Extenders | 无线信号扩展器
+	• Routers | 路由器
+	• Modems | 调制解调器
+	• All-in-One SOHO Devices | SOHO 一体化网络设备（小型办公室/家庭办公室设备）
+	• Media Converters | 光电转换器（介质转换器）
+	• Firewalls | 防火墙
+	• DHCP Servers | DHCP 服务器（动态主机配置协议服务器）
+	• VoIP Endpoints | VoIP 终端设备（网络电话终端）
+	• Lab # 4: Creating a Simple Home LAN | 实验 4：搭建一个简单的家庭局域网
+	✓ Network Devices Quiz | 网络设备测验
+
+Section 6: Network Cabling | 第 6 节：网络布线
+	• Section Introduction | 章节介绍
+	• Types of Network Cabling | 网络线缆的类型
+	• Ethernet Standards | 以太网标准
+	• Coaxial Cabling | 同轴电缆布线
+	• Twisted Pair Copper Network Cabling | 双绞线铜缆布线
+	• Wiring Standards: 568A & 568B and Cable Types | 布线标准：568A 与 568B 及网线类型
+	• Live Demonstration: Creating a Network Cable | 现场演示：制作网线
+	• Plenum-Rated Cabling | 符合通风空间防火等级要求的线缆
+	• Fiber Optic Network Cabling | 光纤网络布线
+	• Networking Cable Selection Criteria | 网络线缆的选择标准
+	• Lab # 5: Exploring Network Cabling | 实验 5：认识网络线缆
+	✓ Network Cabling Quiz | 网络布线测验
+
+Section 7: The OSI Model | 第 7 节：OSI 模型
+	• Section Introduction | 章节介绍
+	• OSI Layer 7 - The Application Layer | OSI 第 7 层——应用层
+	• OSI Layer 6 - The Presentation Layer | OSI 第 6 层——表示层
+	• OSI Layer 5 - The Session Layer | OSI 第 5 层——会话层
+	• OSI Layer 4 - The Transport Layer | OSI 第 4 层——传输层
+	• OSI Layer 3 - The Network Layer | OSI 第 3 层——网络层
+	• OSI Layer 2 - The Data Link Layer | OSI 第 2 层——数据链路层
+	• OSI Layer 1 - The Physical Layer | OSI 第 1 层——物理层
+	• OSI Model Data Encapsulation and De-Encapsulation | OSI 模型中的数据封装与解封装
+	✓ OSI Model Quiz | OSI 模型测验
+
+Section 8: Planning a Network | 第 8 节：网络规划
+	• Section Introduction | 章节介绍
+	• Why We Plan | 为什么要进行规划
+	• The Overall Process | 整体流程
+	• Understanding the Business | 了解业务需求
+	• Establishing a Business Need | 明确业务需求
+	• Defining Specific Areas of Improvement | 确定需要改进的具体领域
+	• Buy-in and Resources | 获得各方支持与资源
+	• Hidden Costs | 隐性成本
+	• Other Considerations | 其他需要考虑的因素
+	• Planning Questions | 规划阶段需要考虑的问题
+	• The Next Steps | 后续步骤
+	✓ Q&A Discussion Board Student Exercise | 问答讨论区：学生练习
+
+Section 9: Introduction to TCP/IP | 第 9 节：TCP/IP 简介
+	• Section Introduction | 章节介绍
+	• What is TCP/IP? | 什么是 TCP/IP？
+	• TCP/IP Protocols | TCP/IP 协议
+	• Network Access Methods | 网络接入方式
+	✓ Section Quiz | 章节测验
+
+Section 10: TCP/IP Network Layer Protocols | 第 10 节：TCP/IP 网络层协议
+	• Address Resolution Protocol (ARP) | 地址解析协议（ARP）
+	• ARP Live Demo: ARP Command on Windows, Linux, and Mac | ARP 实时演示：在 Windows、Linux 和 Mac 上使用 ARP 命令
+	• The Internet Protocol (IP) | 网际协议（IP）
+	• Internet Control Message Protocol (ICMP) | 网际控制报文协议（ICMP）
+	• ICMP Live Demo: Ping & Traceroute on Windows | ICMP 实时演示：在 Windows 上使用 Ping 和 Traceroute 命令
+	• Live Demo: Wireshark ARP & ICMP Packet Analysis | 实时演示：使用 Wireshark 分析 ARP 和 ICMP 数据包
+	✓ TCP/IP Network Layer Protocols Quiz | TCP/IP 网络层协议测验
+
+Section 11: TCP/IP Transport Layer Protocols | 第 11 节：TCP/IP 传输层协议
+	• Understanding Protocols, Ports and Sockets | 理解协议、端口与套接字
+	• TCP vs UDP | TCP 与 UDP 的区别
+	• Closing TCP Sessions | 关闭 TCP 会话
+	✓ TCP/IP Transport Layer Protocols Quiz | TCP/IP 传输层协议测验
+
+Section 12: Common TCP/IP Application Layer Protocols | 第 12 节：常见的 TCP/IP 应用层协议
+	• Management Protocols | 管理协议
+	• Live Demo: Domain Name System (DNS) | 实时演示：域名系统（DNS）
+	• Live Demo: Dynamic Host Configuration Protocol (DHCP) | 实时演示：动态主机配置协议（DHCP）
+	• Live Demo: Windows Network Time Protocol (NTP) | 实时演示：Windows 网络时间协议（NTP）
+	• Remote Communication Protocols | 远程通信协议
+	• Live Demo: Secure Shell (SSH) | 实时演示：安全外壳协议（SSH）
+	• Live Demo: Remote Desktop Protocol (RDP) | 实时演示：远程桌面协议（RDP）
+	• File Transfer Protocols | 文件传输协议
+	• Live Demo: FileZilla FTP Server & Importance of SFTP | 实时演示：FileZilla FTP 服务器及 SFTP 的重要性
+	• Email Protocols | 电子邮件协议
+	• Web Browser Protocols | Web 浏览器协议
+	• Live Demo: Hypertext Transfer Protocol (HTTP) vs HTTP Secure | 实时演示：超文本传输协议（HTTP）与安全超文本传输协议（HTTPS）的区别
+	✓ TCP/IP Application Layer Protocols Quiz | TCP/IP 应用层协议测验
+
+Section 13: Understanding IPv4 Addresses & Binary Math | 第 13 节：理解 IPv4 地址和二进制数学
+	• Section Introduction | 章节介绍
+	• Understanding IPv4 Addresses & Binary Math | 理解 IPv4 地址与二进制运算
+	• Binary Math Basics | 二进制运算基础
+	✓ Binary Math Student Exercise Worksheet | 二进制运算学生练习工作表
+
+Section 14: A Deeper Dive into IPv4 Addresses and Subnet Masks | 第 14 节：深入了解 IPv4 地址和子网掩码
+	• IP Address Classification and Subnet Masks | IP 地址分类与子网掩码
+	• The Power of 2’s | 2 的幂
+	• Public versus Private IP Addresses | 公有 IP 地址与私有 IP 地址
+	• Public versus Private IP Addresses Visualized | 公有 IP 地址与私有 IP 地址的可视化演示
+	• The Loopback IP Address | 环回 IP 地址
+	• Lab # 6: Assigning Static IP Addresses to LAN | 实验 6：为局域网分配静态 IP 地址
+	✓ IPv4 Addresses and Subnet Masks Quiz | IPv4 地址与子网掩码测验
+
+Section 15: Introduction IPv4 to Subnetting | 第 15 节：IPv4 子网划分简介
+	• Introduction to Subnetting | 子网划分简介
+	• Subnetting Reference Tables | 子网划分参考表
+	• Subnetting a Class C Network #1 | 对 C 类网络进行子网划分 #1
+	• Visualizing Subnetting a Class C Network #1 | C 类网络子网划分可视化演示 #1
+	• Subnetting a Class C Network #2 | 对 C 类网络进行子网划分 #2
+	• Visualizing Subnetting a Class C Network #2 | C 类网络子网划分可视化演示 #2
+	• Lab # 7: Create Two LANs on Different Subnets | 实验 7：在不同子网上创建两个局域网
+	✓ Subnetting Quiz | 子网划分测验
+
+Section 16: IP Addressing Version 6 (IPv6) Fundamentals | 第 16 节：IP 地址版本 6 (IPv6) 基础知识
+	• Section Introduction | 章节介绍
+	• Disadvantages of IPv4 and IPv6 Solutions | IPv4 的缺点及 IPv6 解决方案
+	• IPv6 Addressing | IPv6 地址编址
+	• IPv6 Transmission Types | IPv6 传输类型
+	• Types of IPv6 Addresses | IPv6 地址类型
+	• IPv4 to IPv6 Translation & Compatibility | IPv4 到 IPv6 的转换与兼容性
+	• IPv6 Neighbor Discovery Protocol | IPv6 邻居发现协议
+	✓ IPv6 Fundamentals Section Quiz | IPv6 基础知识章节测验
+
+Section 17: Assigning IP Addresses | 第 17 节：分配 IP 地址
+	• Section Introduction | 章节介绍
+	• Static vs. Dynamic IP Address Assignment | 静态 IP 地址分配与动态 IP 地址分配
+	• IPv4 Dynamic IP Address Assignment | IPv4 动态 IP 地址分配
+	• Live Demo: IPv4 DHCP and APIPA | 实时演示：IPv4 DHCP 与自动专用 IP 寻址（APIPA）
+	• Live Demo: Windows Server 2016 DHCP Server | 实时演示：Windows Server 2016 DHCP 服务器
+	• Lab # 8: Utilizing DHCP to Assign IP Addresses to LAN | 实验 8：使用 DHCP 为局域网分配 IP 地址
+	✓ Assigning IP Addresses Section Quiz | IP 地址分配章节测验
+
+Section 18: DNS Fundamentals | 第 18 节：DNS基础知识
+	• Section Introduction | 章节介绍
+	• DNS Overview and Hierarchy | DNS 概述与层级结构
+	• Common DNS Record Types | 常见 DNS 记录类型
+	• Live Demo: NSLookup Command | 实时演示：NSLookup 命令
+	• Lab # 9: DNS and Web Server Configuration | 实验 9：DNS 与 Web 服务器配置
+	✓ DNS Fundamentals Section Quiz | DNS 基础知识章节测验
+
+Section 19: Understanding Switches | 第 19 节：了解交换机
+	• Section Introduction | 章节介绍
+	• Refresher on Switches | 交换机知识回顾
+	• Collision Domains | 冲突域
+	• Broadcast Domains | 广播域
+	• CSMA/CD | 载波侦听多路访问／冲突检测
+	• Managed versus Unmanaged Switches | 管理型交换机与非管理型交换机
+	• How a Switch Learns MAC Addresses | 交换机如何学习 MAC 地址
+	• Virtual LANs (VLANs) | 虚拟局域网（VLAN）
+	• Layer 3 Switches | 三层交换机
+	• Port Mirroring | 端口镜像
+	• Power over Ethernet (PoE) | 以太网供电（PoE）
+	• Lab # 10: Setting up Two Departmental VLANs | 实验 10：配置两个部门的 VLAN
+	✓ Understanding Switches Section Quiz | 交换机基础知识章节测验
+
+Section 20: Understanding Routers | 第 20 节：了解路由器
+	• Section Introduction | 章节介绍
+	• Refresher on Routers | 路由器知识回顾
+	• The Routing Process | 路由过程
+	• Static versus Dynamic Routing | 静态路由与动态路由
+	• IGPs & EGPs | 内部网关协议（IGP）与外部网关协议（EGP）
+	• Interior Gateway Protocols (IGPs) | 内部网关协议（IGP）
+	• Border Gateway Protocol (BGP) | 边界网关协议（BGP）
+	• Routing Tables and AD | 路由表与管理距离（AD）
+	• The Default Route | 默认路由
+	• Lab # 11: Configuring Routers with RIP | 实验 11：使用 RIP 配置路由器
+	✓ Understanding Routers Section Quiz | 路由器基础知识章节测验
+
+Section 21: Network Segmentation | 第 21 节：网络分段
+	• Section Introduction | 章节介绍
+	• Network Address Translation (NAT) | 网络地址转换（NAT）
+	• Demilitarized Zone (DMZ) | 非军事区（DMZ）
+	• Port Forwarding | 端口转发
+	• Access Control Lists (ACLs) | 访问控制列表（ACL）
+	✓ Network Segmentation Section Quiz | 网络分段章节测验
+
+Section 22: Wireless Networking and IoT | 第 22 节：无线网络和物联网
+	• Section Introduction | 章节介绍
+	• Overview of Wireless Networking | 无线网络概述
+	• Understanding Service Set Types | 了解无线服务集类型
+	• Wireless Frequencies and Channels | 无线频率与信道
+	• 802.11 Standards and MIMO | 802.11 标准与多输入多输出（MIMO）技术
+	• Deploying Wireless Networks | 部署无线网络
+	• Wireless Network Vulnerabilities & Security | 无线网络的安全漏洞与安全防护
+	• Internet of Things (IoT) | 物联网（IoT）
+	• Lab # 12: Adding a Wireless Access Point to a LAN | 实验 12：向局域网添加无线接入点
+	✓ Wireless Networking Section Quiz | 无线网络章节测验
+
+Section 23: WAN Broadband Services | 第 23 节：广域网宽带服务
+	• Section Introduction | 章节介绍
+	• WAN Broadband Services Overview | WAN 宽带服务概述
+	• Cable Broadband | 有线电视宽带
+	• Fiber Broadband | 光纤宽带
+	• Digital Subscriber Line (DSL) | 数字用户线路（DSL）
+	• Cellular Broadband | 蜂窝移动宽带
+	• Dedicated Leased Lines | 专用租用线路
+	• Metro Ethernet | 城域以太网
+	• Satellite Internet | 卫星互联网
+	• Dial-up Connection | 拨号连接
+	✓ WAN Broadband Services Section Quiz | WAN 宽带服务章节测验
+
+Section 24: Network Security | 第 24 节：网络安全
+	• Section Introduction | 章节介绍
+	• The CIA Triad | CIA 安全三要素
+	• Least Privilege | 最小权限原则
+	• Acceptable Use Policy | 可接受使用政策（AUP）
+	• Defense in Depth | 纵深防御
+	• Intranet, Extranet and the Internet | 内联网、外联网与互联网
+	• VPN | 虚拟专用网络（VPN）
+	• Firewalls | 防火墙
+	• Web Proxy Servers | Web 代理服务器
+	• Network Intrusion Detection & Prevention | 网络入侵检测与防御
+	• Lab # 13: Configure Server Firewall to Block ICMP Requests | 实验 13：配置服务器防火墙以阻止 ICMP 请求
+	✓ Network Security Section Quiz | 网络安全章节测验
+
+Section 25: Software Defined Networking (SDN) | 第 25 节：软件定义网络 (SDN)
+	• Section Introduction | 章节介绍
+	• Introduction to SDN | 软件定义网络（SDN）简介
+	• SDN Conceptual Diagram | 软件定义网络（SDN）概念示意图
+	• Software-Defined WAN (SD-WAN) | 软件定义广域网（SD-WAN）
+	• Benefits of SDN | 软件定义网络（SDN）的优势
+	✓ SDN Section Quiz | 软件定义网络（SDN）章节测验
+
+Section 26: Designing a Network | 第 26 节：设计网络
+	• Designing a Network | 网络设计
+	• Step 1: Identify the Uses of the Network | 步骤 1：确定网络的用途
+	• Step 2: List Which Tasks Execute on Which Computers | 步骤 2：列出各项任务由哪些计算机执行
+	• Step 3: Select the Type of Network: Centralized or Not? | 步骤 3：选择网络类型：集中式还是非集中式？
+	• Step 4: Select the Proper Equipment | 步骤 4：选择合适的设备
+	• Step 5: Draw the Network | 步骤 5：绘制网络拓扑图
+	• Step 6 & 7: Write the Specifications & Build It! | 步骤 6 和 7：编写技术规格并搭建网络！
+
+Section 27: Follow-Along Case Study Network Design Scenarios | 第 27 节：案例研究网络设计场景
+	• Section Introduction | 章节介绍
+	• Case Study Analysis Instructions | 案例分析说明
+	• Case Study #1: H&M Law Firm Walk-Through | 案例 1：H&M 律师事务所案例讲解
+	• Case Study #1: H&M Law Firm Network Design Proposal Analysis | 案例 1：H&M 律师事务所网络设计方案分析
+	• Case Study #2: San Bernardo Dentistry Walk-Through | 案例 2：San Bernardo 牙科诊所案例讲解
+	• Case Study #2: San Bernardo Dentistry Analysis | 案例 2：San Bernardo 牙科诊所案例分析
+	
+Section 28: Conclusion | 第 28 节：总结
+	• Congratulations! | 恭喜你！
+	• Bonus Lecture: Your Free IT Course! | 附加课程：你的免费 IT 课程！
