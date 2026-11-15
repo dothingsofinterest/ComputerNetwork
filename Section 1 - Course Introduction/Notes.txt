@@ -1,0 +1,73 @@
+Section 1: Course Introduction
+
+Section 2: Overview and Benefits of Computer Networks | 计算机网络概述及优势
+	• What Is a Computer Network? | 什么是计算机网络？
+	• Some Basic Computer Networking Rules | 计算机网络基本规则
+	• Types of Networks (by Size) | 网络类型（按规模划分）
+	• Peer-to-Peer vs. Client-Server Architecture | 对等网络架构与客户端-服务器架构
+	• Why Build a Computer Network? | 为什么要构建计算机网络？
+	• Student Exercise: Benefits of Computer Networks | 学生练习：计算机网络的优势
+
+Section 3: Course Primer: How Computer Networks Work | 课程简介：计算机网络的工作原理
+	• Section Introduction | 章节介绍
+	• Introduction to Computer Networking Protocols 计算机网络协议简介
+	• Introduction to the OSI Model OSI 模型简介
+	• Introduction to the TCP/IP Model | TCP/IP 模型简介
+	• Introduction to MAC Addresses | MAC 地址简介
+	• Introduction to IP Addresses | IP 地址简介
+	• IP versus MAC Addresses | IP 地址与 MAC 地址的比较
+	• Duplex Communication | 双工通信
+	• Network Transmission Types | 网络传输类型
+	• Introduction to Ethernet | 以太网简介
+	• Lab #1: Installing Cisco Packet Tracer | 实验 1：安装 Cisco Packet Tracer
+	• Cisco Packet Tracer on Mac OS | 在 Mac OS 上使用 Cisco Packet Tracer
+	• Lab # 2: Connecting two PCs Together | 实验 2：连接两台 PC
+	• How Computers Work Quiz | 计算机工作原理测验
+
+Section 4: Network Topologies
+
+Section 5: Networking Devices
+
+Section 6: Network Cabling
+
+Section 7: The OSI Model
+
+Section 8: Planning a Network
+
+Section 9: Introduction to TCP/IP
+
+Section 10: TCP/IP Network Layer Protocols
+
+Section 11: TCP/IP Transport Layer Protocols
+
+Section 12: Common TCP/IP Application Layer Protocols
+
+Section 13: Understanding IPv4 Addresses & Binary Math
+
+Section 14: A Deeper Dive into IPv4 Addresses and Subnet Masks
+
+Section 15: Introduction IPv4 to Subnetting
+
+Section 16: IP Addressing Version 6 (IPv6) Fundamentals
+
+Section 17: Assigning IP Addresses
+
+Section 18: DNS Fundamentals
+
+Section 19: Understanding Switches
+
+Section 20: Understanding Routers
+
+Section 21: Network Segmentation
+
+Section 22: Wireless Networking and IoT
+
+Section 23: WAN Broadband Services
+
+Section 24: Network Security
+
+Section 25: Software Defined Networking (SDN)
+
+Section 26: Designing a Network
+
+Section 27: Follow-Along Case Study Network Design Scenarios
