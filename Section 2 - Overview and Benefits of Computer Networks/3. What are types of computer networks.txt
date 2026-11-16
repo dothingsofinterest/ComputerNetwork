@@ -1,0 +1,62 @@
+
+
+Types of Computer Networks(By Size) - 计算机网络的种类
+
+
+【Personal Area Network - PAN】
+	【含义】：个人域网。用于个人设备之间的短距离通信
+	【技术】：USB、Bluetooth（靠电磁波）、Cellular（靠电磁波）、NFC（靠电磁场）
+	【设备】：Cables、设备内置的信号发射器
+	【场景】：
+		Smart Phone  <->  PC
+		Smart Phone  <->  智能设备（手表、手环等）
+		Smart Phone  <->  闸机
+		电视遥控器  <->  TV
+		
+
+【Local Area Network - LAN】
+	【含义】：局域网。用于电脑之间的小范围通信
+	【协议】：Wi-Fi（靠电磁波）、Ethernet 以太网
+	【设备】：Cables、Routers、Switchs
+	【场景】：
+		家庭室内的电脑、打印机、手机等之间通信
+		办公室内的电脑、打印机、投影仪等之间通信
+		SOHO = Small Office or Home Office = 小型办公室或家庭办公室
+		位于不同建筑内的设备之间的通信
+		
+
+【Wireless Local Area Network - WLAN】
+	【含义】：无线局域网。是 LAN 子集
+	【协议】：Wi-Fi（靠电磁波）
+	【设备】：Routers、设备内置的信号发射器
+	【场景】：
+		Coffee Shops
+		Airports
+		家庭
+		
+		
+【Campus Area Network - CAN】
+	【含义】：园区网。由多个 LANs 组成的区域互联网
+	【协议】：
+	【设备】：Optical Fiber、Cables、Routers、Switchs
+	【场景】：
+		某 University 的各个楼的 LANs 组成了一个 CAN
+			教学楼：一个 LAN
+			图书馆：一个 LAN
+			宿舍楼：一个 LAN
+			行政楼：一个 LAN
+			实验室：一个 LAN
+	【注意】：Campus 不单单指校园，可以是企业园区、院区等
+	
+
+【Metropolitan Area Network - NAN】
+	【含义】：城市区域网络。由千万个 LANs 组成的城市互联网
+	【协议】：
+	【设备】：
+	【场景】：
+
+【Wide Area Network - WAN】
+	【含义】：广域网。由千万个 LANs 组成的国家互联网
+	【协议】：
+	【设备】：
+	【场景】：Internet

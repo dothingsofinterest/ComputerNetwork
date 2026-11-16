@@ -1,0 +1,27 @@
+
+
+
+
+procedure | prəˈsiːdʒər | n.步骤
+
+deliver | dɪˈlɪvər | v.送达
+
+corrupted | kəˈrʌptɪd | adj.(数据)损坏的
+
+LAN | læn | n.局域网
+
+router |ˈraʊtər | n.路由器
+
+SOHO | soho | n.小型办公室或家庭办公室
+
+optical fiber | ˈɑːptɪkl | n.光纤
+
+peer | pɪr | n.同辈个体
+
+hybrid work | ˈhaɪbrɪd | n.混合办公
+
+loT device | ioti | n.物联网设备
+
+instant messaging | ˈɪnstənt | n.即时通讯
+
+perspective | pərˈspektɪv | n.视角
