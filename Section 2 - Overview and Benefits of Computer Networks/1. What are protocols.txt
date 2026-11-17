@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+【Communication/Networking Protocols - 通讯协议】
+	【含义】：数据传输所遵循的 rules(规则), 每套 rule 包含一些列 procedures(操作步骤)
+	【注意】：注意区分 Protocols、Computer Networks、Network Architecture
+	【种类】：
+		Physical Protocols: 用于描述 medium(介质例如 wiring)、connections(连接端口)、signal(电信号) 等规则
+		Logical Protocols: 用于描述数据
+	【示例】：
+		TCP/IP: Internet Protocol Suite 互联网协议套件，由两个协议互相配合完成任务
+			-Transmission Control Protocol 传输控制协议，它是一套可靠的数据传输方法，它将数据分段、编号、确认、重传（如丢失）、排序
+			-Internet Protocol 网际协议，负责寻找地址
+	

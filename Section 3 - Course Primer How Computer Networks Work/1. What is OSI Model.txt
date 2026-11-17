@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+
+
+【OSI Model - Open Systems Interconnection Model - 开放式系统互联模型】
+	【含义】：描述网络通信过程的参考模型(Reference Model)，没有具体实现
+	【时间】：1984
+	【模型】：Please Do Not Throw Sausage Pizza Away
+		│
+		├─ Host Layers：负责数据相关的任务
+		│	│
+		│	├─7. Application	应用层：负责组织应用程序数据以便传输，涉及概念 HTTP、DNS、FTP
+		│	│
+		│	├─6. Presentation	表示层
+		│	│
+		│	├─5. Session		会话层
+		│	│
+		│	├─4. Transport		传输层
+		│
+		└─ Media Layers：负责传输相关的任务
+			│
+			├─3. Network		网络层：负责寻找地址，涉及概念 IP、ICMP、Router
+			│
+			├─2. Data Link		链路层
+			│
+			└─1. Physical		物理层：负责通过物理介质传输数据，涉及概念 cables、optical fibers、无线电波
+	【通信】：
+			PC1									PC2
+			↓									↑
+			│									│
+			├─7. Application 应用层				├─7. Application 应用层
+			↓									↑
+			├─6. Presentation 表示层			├─6. Presentation 表示层
+			↓									↑
+			├─5. Session 会话层					├─5. Session 会话层
+			↓									↑
+			├─4. Transport 传输层				├─4. Transport 传输层
+			↓									↑
+			├─3. Network 网络层					├─3. Network 网络层
+			↓									↑
+			├─2. Data Link 链路层				├─2. Data Link 链路层
+			↓									↑
+			└─1. Physical 物理层				└─1. Physical 物理层
+					↓									↑
+					└────────────── Cable ──────────────┘
+				
+				
+【TCP/IP Model - 开放式系统互联模型】
+	【含义】：四层网络通信模型
+	【时间】：1970
+	【注意】：Encapsulation 表示用某个协议包装数据
+	【示例】：
+		1. HTTP header, Data
+		2. TCP header, HTTP header, Data
+		3. IP header, TCP header, HTTP header, Data
+		4. MAC header, IP header, TCP header, HTTP header, Data
+		5. 01010101

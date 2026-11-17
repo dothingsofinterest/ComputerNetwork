@@ -1,0 +1,29 @@
+
+
+Section 1,2
+protocol | ˈproʊtəkɑːl | n.协议
+procedure | prəˈsiːdʒər | n.步骤
+deliver | dɪˈlɪvər | v.送达
+corrupted | kəˈrʌptɪd | adj.(数据)损坏的
+LAN | læn | n.局域网
+router |ˈraʊtər | n.路由器
+SOHO | soho | n.小型办公室或家庭办公室
+optical fiber | ˈɑːptɪkl | n.光纤
+peer | pɪr | n.同辈个体
+hybrid work | ˈhaɪbrɪd | n.混合办公
+loT device | ioti | n.物联网设备
+instant messaging | ˈɪnstənt | n.即时通讯
+perspective | pərˈspektɪv | n.视角
+
+Section 3
+acronym | ˈækrənɪm | n.缩略
+utilize | ˈjuːtəlaɪz | vt.使用<书>
+tone | toʊn | n.音调
+conceptual | kənˈseptʃuəl | adj.概念性的
+daunt | dɔːnt | v.吓唬
+electrical signal | a | n.电信号
+Ethernet | ˈiːθərnet | n.以太网
+encapsulation | inˌkaps(y)əˈlāSH(ə)n | n.封装
+segment | ˈseɡmənt | n.数据段
+packet | ˈpækɪt | n.数据包
+cable | ˈkeɪbl | n.电缆

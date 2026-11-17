@@ -1,0 +1,29 @@
+
+
+
+
+
+
+
+
+【PDU - Protocol Data Unit - 协议数据单元】
+	【含义】：数据在网络模型不同层里的名称。数据在每层里都会被 Encapsulation 以添加新的控制信息，新形成的数据单位就是 PDU.
+	【模型】：
+		│
+		├─ Host Layers
+		│	│
+		│	├─7. Application	Data
+		│	│
+		│	├─6. Presentation	Data
+		│	│
+		│	├─5. Session		Data
+		│	│
+		│	├─4. Transport		Segment（数据段）
+		│
+		└─ Media Layers
+			│
+			├─3. Network		Packet（数据包）
+			│
+			├─2. Data Link		Frame（数据帧）
+			│
+			└─1. Physical		Bit（比特）
