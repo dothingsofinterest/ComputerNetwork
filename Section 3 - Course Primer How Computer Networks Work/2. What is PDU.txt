@@ -7,7 +7,7 @@
 
 
 【PDU - Protocol Data Unit - 协议数据单元】
-	【含义】：数据在网络模型不同层里的名称。数据在每层里都会被 Encapsulation 以添加新的控制信息，新形成的数据单位就是 PDU.
+	【含义】：数据在网络模型各层里的名称。数据在每层里都会被 Encapsulation 以添加新的控制信息，新形成的数据单位
 	【模型】：
 		│
 		├─ Host Layers
@@ -27,3 +27,10 @@
 			├─2. Data Link		Frame（数据帧）
 			│
 			└─1. Physical		Bit（比特）
+			
+	【Encapsulation】：
+		1. HTTP header, Data
+		2. TCP header, HTTP header, Data
+		3. IP header, TCP header, HTTP header, Data
+		4. MAC header, IP header, TCP header, HTTP header, Data
+		5. 01010101

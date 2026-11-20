@@ -26,7 +26,7 @@
 			│
 			├─3. Network		网络层：负责寻找地址，涉及概念 IP、ICMP、Router
 			│
-			├─2. Data Link		链路层
+			├─2. Data Link		链路层：network adapter cards（网卡）
 			│
 			└─1. Physical		物理层：负责通过物理介质传输数据，涉及概念 cables、optical fibers、无线电波
 	【通信】：

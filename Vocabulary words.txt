@@ -27,3 +27,9 @@ encapsulation | inˌkaps(y)əˈlāSH(ə)n | n.封装
 segment | ˈseɡmənt | n.数据段
 packet | ˈpækɪt | n.数据包
 cable | ˈkeɪbl | n.电缆
+handful | ˈhændfʊl | n.一把的量
+network adapter card | a | n.网卡
+interchangeable | ˌɪntərˈtʃeɪndʒəbl | adj.可互换的
+spoof | spuːf | v.哄骗
+methodology | ˌmeθəˈdɑːlədʒi | n.方法论
+hexadecimal | ˌheksəˈdesɪml | adj.十六进制的

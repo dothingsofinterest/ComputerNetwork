@@ -1,0 +1,22 @@
+
+
+
+
+
+【TCP/IP Model - 开放式系统互联模型】
+	【含义】：四层网络通信模型
+	【时间】：1970
+	【模型】：
+		│																	┌─7. Application	应用层
+		│																	│
+		├─4. Application 		应用层 FTP、NFS、SNMP、SMTP、HTTP、POP3	────┼─6. Presentation	表示层
+		│																	│		
+		│																	├─5. Session		会话层
+		│																		
+		├─3. Transport	 		传输层 TCP、UDP	────────────────────────────┼─4. Transport		传输层
+		│																	
+		├─2. Internet			网络层 IP、ARP ─────────────────────────────┼─3. Network		网络层
+		│																		
+		│													                ├─2. Data Link		链路层
+		└─1. Network Interface	物理层 Ethernet、Token Ring	────────────────┤															
+															                └─1. Physical		物理层
