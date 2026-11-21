@@ -1,0 +1,17 @@
+
+
+
+
+
+
+
+
+
+
+【Routers】：作用是让 devices 能在不同 LANs 之间通信，即在 WAN 通信
+
+【Switchers】：作用是让 devices 能在同一个 LAN 内通信
+
+【疑问：为什么家庭只需 routers 而不需 switchers？】
+	1. 家庭网络的主要需求是 WAN 通信，而 LAN 内通信的需求是次要的，即使有该需求，现代路由器具备了一定的 switching 功能，例如 routers 除了 WAN 接口还设有多个 LAN 接口用于 switching
+	2. switchers 的其中一项重要功能就提供了大量的 LAN 接口，用于将大量设备纳入到一个局域网内，而家庭没有这个需求
