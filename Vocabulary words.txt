@@ -33,3 +33,5 @@ interchangeable | ˌɪntərˈtʃeɪndʒəbl | adj.可互换的
 spoof | spuːf | v.哄骗
 methodology | ˌmeθəˈdɑːlədʒi | n.方法论
 hexadecimal | ˌheksəˈdesɪml | adj.十六进制的
+recap | ˈriːkæp | v.概述
+hub?
