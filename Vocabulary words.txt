@@ -35,3 +35,8 @@ methodology | ˌmeθəˈdɑːlədʒi | n.方法论
 hexadecimal | ˌheksəˈdesɪml | adj.十六进制的
 recap | ˈriːkæp | v.概述
 hub?
+duplex | ˈduːpleks | adj.双向通讯的
+multicast | ˈmʌltikæst | v.多目广播
+outnumber | ˌaʊtˈnʌmbər | v.数量上压倒
+prevalent | ˈprevələnt | adj.流行的
+certainty | ˈsɜːrtnti | n.确定性

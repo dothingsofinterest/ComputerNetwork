@@ -1,0 +1,18 @@
+
+
+
+【Ethernet】：
+	【含义】：以太网。一种有线局域网（LAN）技术标准，它规定了设备之间如何连接和传输数据
+	【注意】：
+		-OSI Model's 2nd Layer(Data Link) 和 1st Layer(Physical)
+		-Ethernet 和 Wi-Fi 都是局域网（LAN）技术，但前者通过 Cables 通信，后者通过无线电波通信
+
+
+	
+【Ethernet Frame】
+	【含义】：以太网标准规定的数据传输格式
+	【字段】：
+		-Source MAC
+		-Destination MAC
+		-EtherType：Payload 的封装格式，即 IP Packet 的封装格式，例如 IPv4、IPv6
+		-Payload：承载的数据

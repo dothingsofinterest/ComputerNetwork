@@ -10,8 +10,8 @@
 【MAC Address】
 	【含义】：它是刻在 network adapter cards 上的全球唯一标识符，用于 devices 在 LAN 内通信时识别身份
 	【注意】：
-		-MAC address 涉及 OSI Model's 2nd Layer(Data Link Layer) 和 交换(switching)
+		-它涉及 OSI Model's 2nd Layer(Data Link) 和 交换(switching)
 		-它是刻在 network adapter cards 上的全球唯一标识符，例如 00:1A:2B:3C:4D:5E, 6 bytes(48 bits)
 			-前半部为厂商代码(OUIs = organizationally unique identifier)，这些厂商如 Dell 或 HP 都是电气与电子工程师学会的会员（IEEE = Institute of Electrical and Electronic Engineers）。2²⁴ = 16.7 million，即可存在 1600 万个厂商，但实际上每个厂家可以申请多个 OUIs
 			-后半部为设备代码，2²⁴ = 16.7 million，即每个 OUI 可造 1600 万张网卡
-		-使用场景是 inner-network，即让 devices 在不同 LAN 内通信
+		-它的使用场景是 LAN Communication（inner-network），即让 devices 在不同 LAN 内通信

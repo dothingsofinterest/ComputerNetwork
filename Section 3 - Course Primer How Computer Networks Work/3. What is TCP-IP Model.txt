@@ -2,10 +2,17 @@
 
 
 
+				
 
-【TCP/IP Model - 开放式系统互联模型】
+【TCP/IP Model】
 	【含义】：四层网络通信模型
 	【时间】：1970
+	【通信】：
+		1. HTTP header, Data
+		2. TCP header, HTTP header, Data
+		3. IP header, TCP header, HTTP header, Data
+		4. MAC header, IP header, TCP header, HTTP header, Data
+		5. 01010101
 	【模型】：
 		│																	┌─7. Application	应用层
 		│																	│

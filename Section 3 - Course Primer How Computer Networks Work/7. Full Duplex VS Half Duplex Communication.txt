@@ -1,0 +1,15 @@
+
+
+
+
+
+【Full Deplex Communication】：完全双向通信，能发数据，也能收数据
+
+
+【Half Deplex Communication】：半双向通信，要么发数据，要么收数据
+
+
+【Network transmission types】
+	-unicast: One-to-One
+	-multicast：One-to-Many
+	-Broadcast：One-to-All

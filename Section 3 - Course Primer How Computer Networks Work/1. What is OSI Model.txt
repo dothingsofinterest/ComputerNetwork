@@ -10,6 +10,7 @@
 【OSI Model - Open Systems Interconnection Model - 开放式系统互联模型】
 	【含义】：描述网络通信过程的参考模型(Reference Model)，没有具体实现
 	【时间】：1984
+	【注意】：为什么不直接使用 TCP/IP Model? OSI 只负责制定标准，规定网络通信应该如何分层、每一层应该承担什么职责，不负责具体实现。
 	【模型】：Please Do Not Throw Sausage Pizza Away
 		│
 		├─ Host Layers：负责数据相关的任务
@@ -49,14 +50,3 @@
 					↓									↑
 					└────────────── Cable ──────────────┘
 				
-				
-【TCP/IP Model - 开放式系统互联模型】
-	【含义】：四层网络通信模型
-	【时间】：1970
-	【注意】：Encapsulation 表示用某个协议包装数据
-	【示例】：
-		1. HTTP header, Data
-		2. TCP header, HTTP header, Data
-		3. IP header, TCP header, HTTP header, Data
-		4. MAC header, IP header, TCP header, HTTP header, Data
-		5. 01010101

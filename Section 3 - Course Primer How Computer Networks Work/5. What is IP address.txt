@@ -8,7 +8,6 @@
 		-IPv4: 192.168.0.1
 		-IPv6: 2001:DB8:85A3:0:0:8A2E:370:7334
 	【注意】：
-		-人们常将 IP address 与 OSI Model's Network Layer 划等号
-		-IP address 与两个概念有关 OSI Model's 3rd Layer(Network Layer) 和 路由(routering)
-		-用于 WAN communication
-		-使用场景是 network-to-network，即让 devices 能在不同 LANs 之间通信，即在 WAN 上通信
+		-人们常将它与 OSI Model's Network Layer 划等号
+		-它与两个概念有关 OSI Model's 3rd Layer(Network) 和 路由(routering)
+		-它的使用场景是 WAN Communication（network-to-network），即让 devices 能在不同 LANs 之间通信，即在 WAN 上通信

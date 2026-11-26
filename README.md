@@ -2,7 +2,7 @@
 [Introduction to Computer Networks for Non-Techies](https://www.udemy.com/course/introduction-to-computer-networks/?couponCode=CP261123G1)<br>
 
 # Instructor Introduction
-	-Alton
+	-Alton Hardin
 	-IT network management master<br>
 	-Over 20 years<br>
 	-Department of Treasury in the United States, 网络安全专家 for 12 years<br>
